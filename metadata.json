@@ -1,0 +1,6 @@
+{
+  "name": "FOOD O'CLOCK",
+  "description": "Good Food. Good Mood. Premium smash burgers, flame-grilled shawarma, crispy fries, flaky roll parathas, and craft coolers made fresh on the hour.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
